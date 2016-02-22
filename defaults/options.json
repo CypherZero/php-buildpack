@@ -33,5 +33,6 @@
     "PHP_MODULES_STRIP": true,
     "PHP_MODULES": [],
     "PHP_EXTENSIONS": ["bz2", "zlib", "curl", "mcrypt","pgsql","php_openssl"],
+    "php-ini": {"error_reporting": 22519}, 
     "ZEND_EXTENSIONS": []
 }
